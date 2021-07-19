@@ -80,6 +80,14 @@
   margin-top: -13px;
 }
 
+.mehr {
+  margin-left: 105px !important;
+  background-color: #ffff62;
+  border-color: #ffff62;
+  width: 239px;
+  height: 50px;
+}
+
 .caption2 {
   margin-left: 155px;
   font-family: Barlow;
